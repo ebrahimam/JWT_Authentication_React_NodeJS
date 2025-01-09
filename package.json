@@ -1,0 +1,24 @@
+{
+  "name": "jwt_authentication",
+  "version": "1.0.0",
+  "description": "JWT authentication with react and node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrahimam/JWT_Authentication_React_NodeJS.git"
+  },
+  "author": "Ebrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebrahimam/JWT_Authentication_React_NodeJS/issues"
+  },
+  "homepage": "https://github.com/ebrahimam/JWT_Authentication_React_NodeJS#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
